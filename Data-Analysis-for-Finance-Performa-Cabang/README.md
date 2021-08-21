@@ -13,4 +13,12 @@ Langkah yang akan dilakukan adalah:
 2. Membuat summary per cabang untuk melihat data 5 cabang terbaik dan terburuk
 3. Karena cabang bertambah setiap bulannya, maka perlu dicek umur cabang dan performa Mei
 4. Mencari cabang terburuk untuk masing - masing kelompok umur
-5. Mennganalisis performa agen pada cabang dengan performa terendan
+5. Mennganalisis performa agen pada cabang dengan performa terendah
+
+Data yang digunakan diperoleh dari 'https://storage.googleapis.com/dqlab-dataset/loan_disbursement.csv'
+Data terdiri dari 5 kolom yaitu:
+loan_id : ID dari data ini
+tanggal_cair : tanggal uang diberikan kepada mitra
+cabang : lokasi agen bekerja dan tempat mitra terdaftar
+agen : petugas lapangan yang melakukan pencairan
+amount : jumlah uang yang dicairkan
