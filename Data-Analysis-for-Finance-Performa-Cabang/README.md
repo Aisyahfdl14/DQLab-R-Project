@@ -18,7 +18,7 @@ Langkah yang akan dilakukan adalah:
 
 DATA
 
-Data yang digunakan diperoleh dari 'https://storage.googleapis.com/dqlab-dataset/loan_disbursement.csv'
+Data yang digunakan diperoleh dari DQLab.ID : 'loan_disbursement.csv'
 Data terdiri dari 5 kolom yaitu:
 + loan_id : ID dari data ini
 + tanggal_cair : tanggal uang diberikan kepada mitra
